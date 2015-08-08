@@ -7,10 +7,13 @@ public class Ball : MonoBehaviour {
     void Start() {
         // Initial Velocity
         GetComponent<Rigidbody2D>().velocity = Vector2.right * speed;
+
     }
     
     float hitFactor(Vector2 ballPos, Vector2 racketPos,
                     float racketHeight) {
+
+
         // ascii art:
         // ||  1 <- at the top of the racket
         // ||
