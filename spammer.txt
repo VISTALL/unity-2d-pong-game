@@ -1,1 +1,2 @@
 just git spam
+just test git commit
