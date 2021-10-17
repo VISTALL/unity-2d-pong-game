@@ -1,3 +1,4 @@
 just git spam
 just test git commit
 just next test
+just next test
